@@ -1,0 +1,5 @@
+# Secrets — never track the real .env (only .env.example is committed)
+.env
+
+# Dependencies — regenerated via composer install, shouldn't be tracked
+/vendor/
